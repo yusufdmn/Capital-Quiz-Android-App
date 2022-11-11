@@ -1,5 +1,7 @@
 # Capital Quiz Android App
 
+It is made with Android Studio & Java
+
 https://play.google.com/store/apps/details?id=com.yusufduman.worldculture&hl
 
 ![tia3257738505249418595](https://user-images.githubusercontent.com/73179362/201388170-fee09195-720b-4f5d-90d3-6ea97c103c28.png)
